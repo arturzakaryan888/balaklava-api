@@ -19,12 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1130ba62-460c-4b24-a4fc-35f1397a937a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/init.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.js" beforeDir="false" afterPath="$PROJECT_DIR$/db.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-    </list>
+    <list default="true" id="1130ba62-460c-4b24-a4fc-35f1397a937a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +61,7 @@
       <workItem from="1620205492726" duration="2017000" />
       <workItem from="1620211025914" duration="8844000" />
       <workItem from="1620222674103" duration="2486000" />
-      <workItem from="1620225853650" duration="585000" />
+      <workItem from="1620225853650" duration="904000" />
     </task>
     <servers />
   </component>
